@@ -9,5 +9,4 @@ public class BattleshipsValidatorApplication {
     public static void main(String[] args) {
         SpringApplication.run(BattleshipsValidatorApplication.class, args);
     }
-
 }
